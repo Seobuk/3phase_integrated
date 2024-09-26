@@ -1,0 +1,94 @@
+Importer Log Report
+Project : HKCV4.PrjPcb
+
+Section : Analyze Document - C:\Users\Hyunuk\Documents\git\3phase_integrated\New Version\Cheetah Driver Integrated V4 connector\HKCV4.brd
+    Analyzing data of C:\Users\Hyunuk\Documents\git\3phase_integrated\New Version\Cheetah Driver Integrated V4 connector\HKCV4.brd
+    Load settings
+    Load layers 145
+    Load board
+    Load Library "SparkFun-LED"
+    Load Packages 1
+    Load Library "rcl"
+    Load Packages 5
+    Load Library "BenLibrary"
+    Load Packages 6
+    Load Library "diode"
+    Load Packages 1
+    Load Library "transistor-power"
+    Load Packages 1
+    Load Library "SparkFun-Passives"
+    Load Packages 1
+    Load Library "sc_usercreated"
+    Load Packages 1
+    Load Library "con-jst2"
+    Load Packages 1
+    Load Library "inductor-bourns"
+    Load Packages 1
+    Load Library "Ben_Library"
+    Load Packages 2
+    ERROR: Unhandled typeerrors
+EndSection
+
+Section : Analyze Document - C:\Users\Hyunuk\Documents\git\3phase_integrated\New Version\Cheetah Driver Integrated V4 connector\HKCV4.sch
+    Analyzing data of C:\Users\Hyunuk\Documents\git\3phase_integrated\New Version\Cheetah Driver Integrated V4 connector\HKCV4.sch
+    Load settings
+    Load layers 145
+    Load schematic
+    Load Libraries 12
+    Load Library "rcl"
+    Load Packages 163
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "SparkFun-Aesthetics"
+    Load Packages 0
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "BenLibrary"
+    Load Packages 7
+    Load Symbols 6
+    Load DeviceSets 6
+    Load Library "SparkFun-LED"
+    Load Packages 9
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "supply1"
+    Load Packages 0
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "transistor-power"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "diode"
+    Load Packages 62
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "sc_usercreated"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "SparkFun-Passives"
+    Load Packages 27
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "con-jst2"
+    Load Packages 2
+    Load Symbols 2
+    Load DeviceSets 1
+    Load Library "inductor-bourns"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "Ben_Library"
+    Load Packages 4
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Attributes 0
+    Load Classes 1
+    Load Parts 91
+    Load Sheets 1
+EndSection
+
+Section : Import Document - C:\Users\Hyunuk\Documents\git\3phase_integrated\New Version\Cheetah Driver Integrated V4 connector\HKCV4.brd
+    ERROR: Exception raised! 오류입니다
+EndSection
